@@ -10,4 +10,4 @@ These questions can be found [here](https://github.com/afd/ProgrammingIITutorial
 |    2     | *Perfect palindromic cubes* | Recap        | [Solution](https://github.com/matthewgiles/imperial_java_adf_problems/blob/master/src/PalindromicCubes.java) |
 |    3     | *Lottery numbers*           | Recap        | [Solution](https://github.com/matthewgiles/imperial_java_adf_problems/blob/master/src/Lottery.java) |
 |    4     | *Random numbers*            | Recap        | [Solution](https://github.com/matthewgiles/imperial_java_adf_problems/blob/master/src/RandomGen.java) |
-|    5     | *Reversed order of input    | Recap        | [Solution](https://github.com/matthewgiles/imperial_java_adf_problems/blob/master/src/ReversedInput.java)
+|    5     | *Reversed order of input*   | Recap        | [Solution](https://github.com/matthewgiles/imperial_java_adf_problems/blob/master/src/ReversedInput.java)
